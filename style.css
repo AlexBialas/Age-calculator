@@ -68,3 +68,14 @@ button {
   padding: 1.25em 0;
   box-shadow: 0 0.93em 1.25em rgba(0, 0, 0, 0.3);
 }
+
+span {
+  font-size: 1.87em;
+  font-weight: 500;
+}
+
+p {
+  font-size: 0.87em;
+  color: black;
+  font-weight: 400;
+}
