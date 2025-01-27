@@ -8,6 +8,7 @@ This is a simple web application that calculates the age of a person based on th
 - Calculate age in years, months, and days.
 - Alert if the input date is in the future.
 - Display results dynamically on the web page.
+  
 ## Technologies Used
 
 - HTML
