@@ -38,3 +38,33 @@ input {
   font-weight: 500;
   border-radius: 0.31em;
 }
+
+input {
+  padding: 1.2em 1.25em;
+  font-size: 0.87em;
+  background-color: #eeeeff;
+  color: black;
+}
+
+button {
+  color: #fff;
+  background-color: #7d56f3;
+}
+
+.output-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.output-wrapper div {
+  height: 6.25em;
+  width: 6.25em;
+  background-color: #fff;
+  border-radius: 0.31em;
+  color: black;
+  display: grid;
+  place-items: center;
+  padding: 1.25em 0;
+  box-shadow: 0 0.93em 1.25em rgba(0, 0, 0, 0.3);
+}
